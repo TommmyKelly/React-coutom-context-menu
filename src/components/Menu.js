@@ -6,7 +6,6 @@ const Menu = ({ x, y, showMenu }) => {
       borderRadius: 10,
       backgroundColor: "#FF5C58",
       color: "#FCD2D1",
-      display: "flex",
       flexDirection: "column",
       padding: 10,
       top: y,
